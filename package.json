@@ -1,0 +1,19 @@
+{
+  "name": "dockerteste",
+  "version": "1.0.0",
+  "description": "testando docker com aplicação node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topvilla/dockerTeste.git"
+  },
+  "author": "Pedro Queiroz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topvilla/dockerTeste/issues"
+  },
+  "homepage": "https://github.com/topvilla/dockerTeste#readme"
+}
